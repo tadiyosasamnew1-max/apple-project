@@ -1,6 +1,5 @@
 import React from 'react'
 import logoo from '../../assets/images/home/logo.png'
-//<img src={logoo}/></a></li>
 import searchh from '../../assets/images/icons/search-icon.png'
 import cart from '../../assets/images/icons/cart.png'
 
